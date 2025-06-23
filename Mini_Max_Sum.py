@@ -1,4 +1,4 @@
-#Problem: Mini-Max Sum
+#Problem: Mini_Max_Sum
 #Link: https://www.hackerrank.com/challenges/staircase/problem
 #Difficulty: Easy
  
